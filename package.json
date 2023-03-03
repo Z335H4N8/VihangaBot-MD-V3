@@ -1,6 +1,6 @@
 {
-  "name": "Astro-Md",
-  "version": "7.0.0",
+  "name": "ABHISHEK-SER",
+  "version": "1.0.0",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
   "type": "commonjs",
@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
+"url": "git+https://github.com/AbhishekSuresh2/Astro-MD-V7"
 },
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
-"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
+"author": "ABHISHEK-SURESH",
+"developer": "ABHISHEK-SURESH",
+"homepage": "https://github.com/AbhishekSuresh2/Astro-MD-V7",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
